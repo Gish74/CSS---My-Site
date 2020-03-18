@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+  background-color: white;
+  color: #40514E;
+
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 1.75;
+}
+
+hr {
+  border: dotted #D3D3D3 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto 80px auto;
+}
+
+.ecom-pro-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: -20px;
+}
+
+.top-container {
+  padding-top: 70px;
+  padding-bottom: 300px;
+  position: relative;
+  height: 640px;
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin-top: 60px;
+  position: relative;
+}
+
+.contact-me {
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #66BFBF;
+  height: 95px;
+  margin-top: 70px;
+  padding-top: 15px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 10px;
+  right: 30%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 420px;
+  left: 30%
+}
+
+.computer-pic {
+  position: absolute;
+  top: 460px;
+  left: 45%
+}
+
+.summary-para {
+  width: 70%;
+  margin: 10px auto 40px auto;
+
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skills-images {
+  width: 200px;
+  height: 200px;
+}
+
+.contact-message {
+  width: 70%;
+  margin: 0 auto 30px auto;
+}
+
+.myButton {
+	box-shadow:inset -10px -8px 7px -6px #6bada3;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	padding:18px 27px;
+	text-decoration:none;
+	text-shadow:0px 1px 22px #2bc4ad;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
